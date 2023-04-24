@@ -1,1 +1,2 @@
-# Programaci-n-3-IDS-TM
+# Programacion-3-IDS-TM
+Repositorio de entrega de trabajo de la clase 
